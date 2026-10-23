@@ -1,7 +1,7 @@
 Hi, I'm Krishan 👋
 
 AI/ML enthusiast, especially into NLP and LLMs.
-Second-year undergrad at IIT Delhi, with a strong math base (linear algebra, calculus) and solid Python and C++.
+Second-year undergrad at IIT Delhi, with a strong math base (linear algebra, calculus, probability and statstics) and solid Python and C++.
 
 🔧 Ongoing projects
 - Numerical methods toolchain in C/C++ and Python
